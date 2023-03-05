@@ -1,14 +1,14 @@
 {
-    "name": "Template Plugin",
-    "description": "A plugin for use as a template.",
+    "name": "ViewRaw",
+    "description": "View raw message data (aliucord -> vd port)",
     "authors": [
         {
-            "name": "You!",
-            "id": "YOUR_ID_HERE"
+            "name": "sapphire",
+            "id": "757982547861962752"
         }
     ],
-    "main": "src/index.ts",
+    "main": "src/index.tsx",
     "vendetta": {
-        "icon": "ic_badge_staff"
+        "icon": "ic_chat_bubble_16px"
     }
 }
